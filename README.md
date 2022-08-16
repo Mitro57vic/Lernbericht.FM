@@ -27,3 +27,7 @@ The Harden step back is usefull in almost every situation in Basketball for exam
 With the informations in my Git you know what i learned and maybe you learned something too.
 
 ![OIP](https://user-images.githubusercontent.com/110892641/184823447-90c2c525-fb40-4ad5-8fb0-c36ae56e4015.jpg)
+
+`The chart with the individual step descriptions was the easiest to make`
+
+nothing went badly fortunately
