@@ -13,7 +13,7 @@ ggf. Filip Mitrovic
 | --- | --- | ---|
 | one Dribble for example: between the legs |Take the ball and go 4 steps back|Jumpshot|
 
-*Now i know how to use the Harden step back in every situation.*
+*Now i know how to use the Harden step back in every situation of the game.*
 
 The Harden step back is usefull in almost every situation in Basketball for example: 
 * 1 vs 1 situations
